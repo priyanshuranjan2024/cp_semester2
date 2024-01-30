@@ -1,0 +1,7 @@
+1.write a program to check whether a number is even or odd
+2.wap to check whether a char is vowel or consonant
+3.wap to find the largest number among three numbers
+4.wap to find the roots of a quadratic equations
+5.wap to find the entered year is leap year or not
+6.wap to print the nummber of days in a month
+7.wap to check whether it is valid or not if sides are given
