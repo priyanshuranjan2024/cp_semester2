@@ -1,0 +1,4 @@
+wap to display uppercase letter and lowercase letter using loop and function
+wap to check whether a no is prime or not using function 
+wap to count the no. of digit using a function
+wap to calculate the power of a number using a user defined function
