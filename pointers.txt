@@ -1,0 +1,35 @@
+Pointers
+
+in function there are two calling conventions 
+
+
+actual parameters and formal parameters
+
+Call by value
+are there 1st one is call by value method
+here the values of actual parameters will be copied to formal parameters and these two different parameters store the values in different locations
+
+
+Call by address
+in this method during the function call address of the variable are passed as the function argument
+2.any changes made in called function will reflect  in the calling function
+in this method Pointers is used to store the address of the variable 
+
+
+void fun(int *ptr1,int *ptr2){
+    *ptr1=20;//this will be reflected outside the function also
+    *ptt2=10;//this will be reflected outside the function also
+}
+
+Pointers  is a special kind of variable which stores the address of another variable.
+by storing the address it points to a particular memory location. 
+the general syntax for Pointers is datatype *ptr_variable;
+
+* is known as indirection operator
+
+1.what is null Pointers
+2.what is void Pointers
+3.what is memory leak
+4.what is dangling Pointers
+5.what is function Pointers
+6.what are drawbacks of Pointers
