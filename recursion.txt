@@ -1,0 +1,16 @@
+Recursion
+
+1.it is a function that calls itself that will lead to excution of a program it is known as Recursion.
+
+2.direct Recursion if the function calls itself.
+indirect Recursion if a function inside a function calls its parent function.
+
+3.do while is exit control loop where as while loop is entry file
+
+questions
+
+1.wap to first 50 natural number using Recursion
+2.wap to find fac of number using Recursion
+3.wap to calculate the sum of numbers from one to n using Recursion
+4.wap to print even or odd number in a given range using Recursion
+
